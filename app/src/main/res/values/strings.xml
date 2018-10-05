@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="btn_envoyer">Envoyer</string>
+    <string name="text_message_hint">Votre message</string>
+</resources>
